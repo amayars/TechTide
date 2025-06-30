@@ -1,0 +1,7 @@
+Flask
+textblob
+vaderSentiment
+fpdf
+pytrends
+serpapi
+requests
