@@ -46,6 +46,6 @@ Generates a complete business analysis report in PDF using `fpdf`.
 - Requests
 
 ---
-
-## 🗂️ Project Structure
+##🙋‍♀️ Author
+Amaya R
 
